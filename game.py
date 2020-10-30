@@ -1,4 +1,4 @@
-from turtle import *
+import turtle
 from random import randrange
 import freegames
 
