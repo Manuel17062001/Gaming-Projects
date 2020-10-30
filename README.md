@@ -28,3 +28,7 @@ how useful learning a set of computational skills is.
 
 
 During this SemanaTec, I have understood the importance of the use of github as a programming tool. Right now I am mayoring at Computational Ingeniering and as top student, I must have the most amount of knowledge and abilities to become outstanding. Eventhough I am a beginer in the area of complex coding, I believe that the ITESM will give me the tools to become succesful, and up-to-date with industry standards. 
+
+Conclusions: 
+
+Programming is today one of those tools that changes how humanity works. Since the starting development of computing, there has been a push to make programs more powerful, more intuitive, and most importantly that people can cooperate in the creation of more complex programs. Without these type of tools, programming would be very individualistic and programming cost would be even higher. Instead -bash, or Github are simple to use for the working programmer. 
