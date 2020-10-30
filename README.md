@@ -1,2 +1,1 @@
-# Gaming-Projects
-Here we have the games
+The purpose of this project is to understand the importance of international standards in programming. Here we learned about the importance of keeping international standards within coding to make work more effective overal. 
