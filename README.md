@@ -27,7 +27,4 @@ how useful learning a set of computational skills is.
 
 
 
-The purpose of this project is to understand the importance of international standards in programming. 
-Here we learned about the importance of keeping international standards within coding to make work more effective overall. 
-If there are complications programms like Github and bash make it easier to understand the changes made.
-
+During this SemanaTec, I have understood the importance of the use of github as a programming tool. Right now I am mayoring at Computational Ingeniering and as top student, I must have the most amount of knowledge and abilities to become outstanding. Eventhough I am a beginer in the area of complex coding, I believe that the ITESM will give me the tools to become succesful, and up-to-date with industry standards. 
