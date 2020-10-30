@@ -1,6 +1,6 @@
-import turtle
+from turtle import *
 from random import randrange
-import freegames
+from freegames import square, vector
 
 food = vector(0, 0)
 snake = [vector(10, 0)]
@@ -43,7 +43,7 @@ def move():
     update()
     ontimer(move, 100)
 
-setup(420, 420, 370, 0)
+setup(500, 500, 370, 0)
 hideturtle()
 tracer(False)
 listen()
